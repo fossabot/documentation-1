@@ -1,4 +1,6 @@
 # documentation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falexmbe%2Fdocumentation.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falexmbe%2Fdocumentation?ref=badge_shield)
+
 
 Technical documentation for Armory Spinnaker.
 
@@ -26,3 +28,7 @@ Make a pull-request and once its merged, Jenkins automatically puts it on S3.
 
 ### Livereload
 Install the [Livereload chrome extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) if you like seeing the page auto refresh when making a change.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falexmbe%2Fdocumentation.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falexmbe%2Fdocumentation?ref=badge_large)
